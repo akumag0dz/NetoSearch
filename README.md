@@ -38,3 +38,5 @@ A plataforma combina **busca por produto**, **geração automática de Google Do
 ## ⚠️ Aviso
 
 Este projeto é destinado apenas para **pesquisa, prospecção comercial e fins educacionais**.
+
+LINK PARA DOWNLOAD: https://www.transfernow.net/dl/202603109FVlSRkZ
